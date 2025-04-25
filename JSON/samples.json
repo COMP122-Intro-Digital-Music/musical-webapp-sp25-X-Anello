@@ -1,1 +1,26 @@
-[]
+[  
+  {
+    "name": "BassHarmonics",
+    "file": "samples/BassHarmonics.wav",
+    "bpm": 120,
+    "loop": "2m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "FretlessBass",
+    "file": "samples/FretlessBass.wav",
+    "bpm": "85",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+    {
+    "name": "GrandPiano",
+    "file": "samples/GrandPiano.wav",
+    "bpm": "117",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+    }
+]
