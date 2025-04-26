@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "name": "Default Graph",
+    "pitchSet": {
+      "state": "Bb2",
+      "matrix": {
+        "G4": [
+          "G4",
+          "C4",
+          "Bb2"
+        ],
+        "C4": [
+          "G4"
+        ],
+        "Bb4": [
+          "Bb4",
+          "C4",
+          "Bb2"
+        ],
+        "Bb2": [
+          "Bb2",
+          "Bb4"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "8n",
+      "matrix": {
+        "4n": [
+          "2n."
+        ],
+        "8n": [
+          "8n"
+        ],
+        "2n.": [
+          "2n."
+        ]
+      }
+    }
+  }
+]
